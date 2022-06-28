@@ -1,5 +1,2 @@
-# Desafio de Projeto sobre Git/GitHub
-Repositório criado para o Desafio de Projeto.
-
-## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+# Meu Livro De Receitas :closed_book::spaghetti:
+Repositório criado para guardar minhas receitas da internet.
